@@ -1,8 +1,15 @@
 {
-    "count": 6,
+    "count": 10,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "5a34d86e-0909-4ebb-ac42-65be2678508b",
+            "collectionId": "French",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/5a34d86e-0909-4ebb-ac42-65be2678508b_fr_Female.mp4"
+        },
         {
             "id": "149e9a3b-88b5-4913-bf85-b2dde976dff6",
             "collectionId": "French",
@@ -11,11 +18,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/149e9a3b-88b5-4913-bf85-b2dde976dff6_fr_Female.mp4"
         },
         {
+            "id": "66ef99a4-ee56-475d-9917-6e32cafaeb76",
+            "collectionId": "French",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/66ef99a4-ee56-475d-9917-6e32cafaeb76_fr_Male.mp4"
+        },
+        {
             "id": "b90fce50-0db6-49f4-b3b0-441dbecf3930",
             "collectionId": "French",
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/b90fce50-0db6-49f4-b3b0-441dbecf3930_fr_Female.mp4"
+        },
+        {
+            "id": "e7360f4a-7889-49ec-88d7-9a38434ca391",
+            "collectionId": "French",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/e7360f4a-7889-49ec-88d7-9a38434ca391_fr_Male.mp4"
         },
         {
             "id": "93504ed5-8db2-4cc1-b0bb-1d927524d832",
@@ -44,6 +65,13 @@
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/883d9b6e-82f1-49f5-b060-4d1dda84b105_fr_Female.mp4"
+        },
+        {
+            "id": "40207818-452b-49d3-8685-753400f7ddcf",
+            "collectionId": "French",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/French/40207818-452b-49d3-8685-753400f7ddcf_fr_Male.mp4"
         }
     ]
 }
